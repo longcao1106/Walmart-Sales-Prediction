@@ -27,6 +27,7 @@ The workspace consists of the following structure:
 
 ## Dataset Information
 The dataset used in this project is `Walmart.csv`. A brief preview of the first 9 data rows is represented below to give a clear idea of the structure:
+<div style="font-size: 0.8em;">
 
 | Store | Date       | Weekly_Sales | Holiday_Flag | Temperature | Fuel_Price | CPI         | Unemployment |
 |-------|------------|--------------|--------------|-------------|------------|-------------|--------------|
@@ -39,6 +40,8 @@ The dataset used in this project is `Walmart.csv`. A brief preview of the first 
 | 1     | 19-03-2010 | 1472515.79   | 0            | 54.58       | 2.720      | 211.2156350 | 8.106        |
 | 1     | 26-03-2010 | 1404429.92   | 0            | 51.45       | 2.732      | 211.0180424 | 8.106        |
 | 1     | 02-04-2010 | 1594968.28   | 0            | 62.27       | 2.719      | 210.8204499 | 7.808        |
+
+</div>
 
 ## Data Dictionary
 - **Store**: The store number.
